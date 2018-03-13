@@ -14,6 +14,7 @@ public class test {
 		int x=0B1111;
 		//double d=0786.0;
 		System.out.println(x);
+		Syste.out.println("Welcome to JAVA");
 	}
 	
 }
