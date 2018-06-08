@@ -7,6 +7,7 @@ public class test {
 		int x = 10*20-20;
 
 		System.out.println(x);
+		Syste.out.println("Welcome to JAVA");
 	}
 
 } 
